@@ -15,7 +15,7 @@ To get started with using this Dockerized FastAPI application, follow these step
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone git@github.com:fadykhazzaka/docker-fastapi.git
+   git clone https://github.com/FadyKhazzaka/docker-fastApi.git
     ```
 
 2. Navigate to the cloned repository directory:
